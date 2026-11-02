@@ -5,7 +5,7 @@ import java.util.Scanner;
  * CSD402 Module 8: Finds the largest Integer in an ArrayList.
  * The terminating zero is included in the list as required.
  */
-public class JadonArrayListTest {
+public class JadonArgoArrayListTest {
 
     /**
      * Returns the largest value in the list, or zero if the list is empty.
